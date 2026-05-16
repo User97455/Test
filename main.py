@@ -8,5 +8,5 @@ if w -13:
 
 qc = 6 + 6
 print ("qc")
-    
-    print("результат: p")
+
+j = "privet"
