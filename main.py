@@ -5,3 +5,8 @@ d = 22
 w = p - d
 if w -13:
     print("результат: p")
+
+qc = 6 + 6
+print ("qc")
+    
+    print("результат: p")
